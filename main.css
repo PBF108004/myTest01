@@ -1,0 +1,11 @@
+header {
+    background: #24f5c1;
+    height: 60px;
+}
+main {
+    min-width: 800px;
+}
+nav {
+    background: #d8e65d;
+    height: 60px;
+}
